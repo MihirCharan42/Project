@@ -1,0 +1,25 @@
+.post {
+    width: 95%;
+    padding: 10px;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+h1,h3 {
+    margin: 3px;
+    padding: 3px;
+}
+
+.postinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.postusernames {
+    margin: 5px;
+}
+
+
